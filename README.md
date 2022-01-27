@@ -1,2 +1,2 @@
 # Test-Innersource
-This repository is first repo created in order to some InnerSource functionalities 
+This repository is the first repo created in order to test some InnerSource functionalities 
